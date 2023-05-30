@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Погодное приложение</string>
+    <string name="title">Погода в вашем регионе</string>
+    <string name="no_user_input">Вы ничего не ввели</string>
+</resources>
